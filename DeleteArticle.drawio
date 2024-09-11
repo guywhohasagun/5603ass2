@@ -105,7 +105,7 @@
           <mxGeometry x="1610" y="205" width="530" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zkrj8ikKc5orAXMIiYBu-33" value="Text in black will be labels or captions" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1754" y="560" width="530" height="127" as="geometry" />
+          <mxGeometry x="1610" y="450" width="530" height="127" as="geometry" />
         </mxCell>
         <mxCell id="RjwAec6_66TozSnkLIB1-1" value="Article ID:" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#DEDEDE;" parent="1" vertex="1">
           <mxGeometry x="20" y="150" width="160" height="40" as="geometry" />
