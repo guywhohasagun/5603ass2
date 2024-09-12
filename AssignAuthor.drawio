@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.13">
   <diagram name="Page-1" id="N0Hd7t6T6hSaKdjdyGFI">
-    <mxGraphModel dx="2758" dy="4462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="3994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
           <mxGeometry x="3540" y="220" width="530" height="160" as="geometry" />
         </mxCell>
         <mxCell id="zkrj8ikKc5orAXMIiYBu-33" value="Text in black will be labels, captions, or example of format" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="4190" y="583" width="530" height="127" as="geometry" />
+          <mxGeometry x="4050" y="-257" width="530" height="127" as="geometry" />
         </mxCell>
         <mxCell id="RjwAec6_66TozSnkLIB1-1" value="Article ID:" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#DEDEDE;" parent="1" vertex="1">
           <mxGeometry x="2550" y="-70" width="160" height="40" as="geometry" />
@@ -216,7 +216,7 @@
           <mxGeometry x="3460" y="910" width="530" height="160" as="geometry" />
         </mxCell>
         <mxCell id="vHDq9KT845PzX0H68crD-1" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=30;align=left;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="4140" y="770" width="610" height="1130" as="geometry">
+          <mxGeometry x="4110" y="30" width="610" height="1130" as="geometry">
             <mxRectangle x="1800" y="340" width="90" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
