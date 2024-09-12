@@ -1,0 +1,218 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.13">
+  <diagram name="Page-1" id="N0Hd7t6T6hSaKdjdyGFI">
+    <mxGraphModel dx="493" dy="3214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vf4No_6lzSzimnj8tU26-1" value="Assign Author" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=50;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="-300" width="900" height="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Jtz0p4KT4NomE1Ug3G-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=28;align=left;strokeWidth=2;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="2550" y="40" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Jtz0p4KT4NomE1Ug3G-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;strokeWidth=2;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="2730" y="140" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Jtz0p4KT4NomE1Ug3G-39" value="Title:" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#DEDEDE;" parent="1" vertex="1">
+          <mxGeometry x="2550" y="-10" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Jtz0p4KT4NomE1Ug3G-40" value="Articles:" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#DEDEDE;" parent="1" vertex="1">
+          <mxGeometry x="2550" y="-180" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Jtz0p4KT4NomE1Ug3G-46" value="Date &lt;br&gt;Published:" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#DEDEDE;" parent="1" vertex="1">
+          <mxGeometry x="2550" y="140" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Jtz0p4KT4NomE1Ug3G-47" value="Assign Author" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="2580" y="1190" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Jtz0p4KT4NomE1Ug3G-48" value="Return" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="3070" y="1190" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Jtz0p4KT4NomE1Ug3G-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=100;strokeWidth=5;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="f4Jtz0p4KT4NomE1Ug3G-49" target="f4Jtz0p4KT4NomE1Ug3G-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3205" y="1492" />
+              <mxPoint x="3205" y="1310" />
+              <mxPoint x="3215" y="1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f4Jtz0p4KT4NomE1Ug3G-49" value="Button that returns the user to the menu" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" parent="1" vertex="1">
+          <mxGeometry x="2940" y="1440" width="530" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Jtz0p4KT4NomE1Ug3G-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=5;" parent="1" source="f4Jtz0p4KT4NomE1Ug3G-51" target="f4Jtz0p4KT4NomE1Ug3G-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Jtz0p4KT4NomE1Ug3G-51" value="Button that saves assignment details and displays the message &quot;Author assigned successfully&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" parent="1" vertex="1">
+          <mxGeometry x="2340" y="1410" width="530" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="zkrj8ikKc5orAXMIiYBu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zkrj8ikKc5orAXMIiYBu-1" target="f4Jtz0p4KT4NomE1Ug3G-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3580" y="-220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkrj8ikKc5orAXMIiYBu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" parent="1" source="zkrj8ikKc5orAXMIiYBu-1" target="zkrj8ikKc5orAXMIiYBu-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkrj8ikKc5orAXMIiYBu-1" value="Combo Box that will show the Article ID and Title of articles for the Catalogue Clerk to select to assign author" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" parent="1" vertex="1">
+          <mxGeometry x="3480" y="-480" width="530" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zkrj8ikKc5orAXMIiYBu-4" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=30;align=left;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="2720" y="-1100" width="610" height="730" as="geometry">
+            <mxRectangle x="1800" y="340" width="90" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-43" value="2001&amp;nbsp;&amp;nbsp;&amp;nbsp; Review of cloud computing&amp;nbsp;&amp;nbsp;&amp;nbsp; " style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=30;" vertex="1" parent="zkrj8ikKc5orAXMIiYBu-4">
+          <mxGeometry y="30" width="610" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-42" value="2002&amp;nbsp;&amp;nbsp;&amp;nbsp; Review of cloud detection algorithms" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=30;" vertex="1" parent="zkrj8ikKc5orAXMIiYBu-4">
+          <mxGeometry y="80" width="610" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-41" value="2003&amp;nbsp;&amp;nbsp;&amp;nbsp; Review of Internet of things" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=30;" vertex="1" parent="zkrj8ikKc5orAXMIiYBu-4">
+          <mxGeometry y="130" width="610" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-40" value="2004&amp;nbsp;&amp;nbsp;&amp;nbsp; Cyber Security – An Appraisal" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=30;" vertex="1" parent="zkrj8ikKc5orAXMIiYBu-4">
+          <mxGeometry y="180" width="610" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-37" value="2005&amp;nbsp;&amp;nbsp;&amp;nbsp; GIS Applications" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=30;" vertex="1" parent="zkrj8ikKc5orAXMIiYBu-4">
+          <mxGeometry y="230" width="610" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-38" value="2006&amp;nbsp;&amp;nbsp;&amp;nbsp; Participatory GIS in New Zealand&amp;nbsp;&amp;nbsp;&amp;nbsp; " style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=30;" vertex="1" parent="zkrj8ikKc5orAXMIiYBu-4">
+          <mxGeometry y="280" width="610" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zkrj8ikKc5orAXMIiYBu-12" value="2007&amp;nbsp;&amp;nbsp;&amp;nbsp; Use of NOAA data in the Pacific" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=30;" parent="zkrj8ikKc5orAXMIiYBu-4" vertex="1">
+          <mxGeometry y="330" width="610" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zkrj8ikKc5orAXMIiYBu-11" value="2008    Construction Projects Review" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=30;" parent="zkrj8ikKc5orAXMIiYBu-4" vertex="1">
+          <mxGeometry y="380" width="610" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zkrj8ikKc5orAXMIiYBu-14" value="2009    Wireless Networks Review" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=30;" parent="zkrj8ikKc5orAXMIiYBu-4" vertex="1">
+          <mxGeometry y="430" width="610" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zkrj8ikKc5orAXMIiYBu-15" value="2010    Species Monitoring with GPS" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=30;" parent="zkrj8ikKc5orAXMIiYBu-4" vertex="1">
+          <mxGeometry y="480" width="610" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zkrj8ikKc5orAXMIiYBu-17" value="2011    Study of Denial of Service" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=30;" parent="zkrj8ikKc5orAXMIiYBu-4" vertex="1">
+          <mxGeometry y="530" width="610" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zkrj8ikKc5orAXMIiYBu-18" value="2012    Encroachment detection in Auckland" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=30;" parent="zkrj8ikKc5orAXMIiYBu-4" vertex="1">
+          <mxGeometry y="580" width="610" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zkrj8ikKc5orAXMIiYBu-19" value="2013    Malware Analysis" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=30;" parent="zkrj8ikKc5orAXMIiYBu-4" vertex="1">
+          <mxGeometry y="630" width="610" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zkrj8ikKc5orAXMIiYBu-16" value="2014    Rural GIS Applications" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=30;" parent="zkrj8ikKc5orAXMIiYBu-4" vertex="1">
+          <mxGeometry y="680" width="610" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zkrj8ikKc5orAXMIiYBu-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zkrj8ikKc5orAXMIiYBu-22" edge="1" target="f4Jtz0p4KT4NomE1Ug3G-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="2700" y="450" as="sourcePoint" />
+            <mxPoint x="1540" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkrj8ikKc5orAXMIiYBu-22" value="Read only text box for displaying title" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" parent="1" vertex="1">
+          <mxGeometry x="3530" y="40" width="530" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="zkrj8ikKc5orAXMIiYBu-31" target="f4Jtz0p4KT4NomE1Ug3G-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkrj8ikKc5orAXMIiYBu-31" value="Read only text box for displaying date published" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" parent="1" vertex="1">
+          <mxGeometry x="3540" y="220" width="530" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zkrj8ikKc5orAXMIiYBu-33" value="Text in black will be labels, captions, or example of format" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="4190" y="583" width="530" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="RjwAec6_66TozSnkLIB1-1" value="Article ID:" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#DEDEDE;" parent="1" vertex="1">
+          <mxGeometry x="2550" y="-70" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RjwAec6_66TozSnkLIB1-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=28;align=left;strokeWidth=2;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="2730" y="-70" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RjwAec6_66TozSnkLIB1-9" value="Topic Description:" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#DEDEDE;" parent="1" vertex="1">
+          <mxGeometry x="2550" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RjwAec6_66TozSnkLIB1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" parent="1" source="RjwAec6_66TozSnkLIB1-14" target="RjwAec6_66TozSnkLIB1-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RjwAec6_66TozSnkLIB1-14" value="Read only text box to display Topic discription" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" parent="1" vertex="1">
+          <mxGeometry x="3550" y="410" width="530" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RjwAec6_66TozSnkLIB1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" parent="1" source="RjwAec6_66TozSnkLIB1-16" target="RjwAec6_66TozSnkLIB1-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RjwAec6_66TozSnkLIB1-16" value="Read only Text Box for displaying Article ID" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" parent="1" vertex="1">
+          <mxGeometry x="3530" y="-95" width="530" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2550" y="-130" width="970" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Jtz0p4KT4NomE1Ug3G-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;align=left;strokeWidth=2;" parent="vf4No_6lzSzimnj8tU26-14" vertex="1">
+          <mxGeometry width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Jtz0p4KT4NomE1Ug3G-4" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;fillColor=#000000;strokeWidth=2;" parent="vf4No_6lzSzimnj8tU26-14" vertex="1">
+          <mxGeometry x="802.94" y="7.060000000000002" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjwAec6_66TozSnkLIB1-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=28;align=left;strokeWidth=2;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="2550" y="330" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-21" value="Articles:" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#DEDEDE;" vertex="1" parent="1">
+          <mxGeometry x="2550" y="430" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2550" y="480" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;align=left;strokeWidth=2;" vertex="1" parent="vf4No_6lzSzimnj8tU26-24">
+          <mxGeometry width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-23" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;fillColor=#000000;strokeWidth=2;" vertex="1" parent="vf4No_6lzSzimnj8tU26-24">
+          <mxGeometry x="800" y="5.000000000000057" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2550" y="590" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-31" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="vf4No_6lzSzimnj8tU26-34">
+          <mxGeometry width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-32" value="" style="group" vertex="1" connectable="0" parent="vf4No_6lzSzimnj8tU26-34">
+          <mxGeometry x="10" y="10" width="311.6300000000001" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-6" value="Primary" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;align=center;strokeWidth=2;" vertex="1" parent="vf4No_6lzSzimnj8tU26-32">
+          <mxGeometry width="311.63" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=28;align=center;strokeWidth=2;" vertex="1" parent="vf4No_6lzSzimnj8tU26-32">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="vf4No_6lzSzimnj8tU26-32">
+          <mxGeometry x="5" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-33" value="" style="group" vertex="1" connectable="0" parent="vf4No_6lzSzimnj8tU26-34">
+          <mxGeometry x="10" y="70" width="311.6300000000001" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-28" value="Secondary" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;align=center;strokeWidth=2;" vertex="1" parent="vf4No_6lzSzimnj8tU26-33">
+          <mxGeometry width="311.63" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=28;align=center;strokeWidth=2;" vertex="1" parent="vf4No_6lzSzimnj8tU26-33">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-35" value="Role:" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#DEDEDE;" vertex="1" parent="1">
+          <mxGeometry x="2550" y="540" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="vf4No_6lzSzimnj8tU26-44" target="vf4No_6lzSzimnj8tU26-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-44" value="Combo Box that will show the Author ID, Last Name and First Name of the Authors for the Catalogue Clerk to select to assign author" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="3490" y="667" width="530" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="vf4No_6lzSzimnj8tU26-46" target="vf4No_6lzSzimnj8tU26-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2860" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vf4No_6lzSzimnj8tU26-46" value="Two Radio Buttons that allow the Catalogue Clerk to either select the Primary Secondary status " style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="3820" y="930" width="530" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
